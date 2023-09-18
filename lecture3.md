@@ -18,11 +18,13 @@
     bundler
 
 ## 今回の課題で学んだこと
-　　gemの入れ方　例;gem install rails-バージョン
-　　バージョンを調べるコマンド　例;ruby --v
-　　自力でサンプルアプリ対応verをinstallしたがクローンしたディレクトリでbundlerすればできた、bundler理解せず進めてしまった……
-　　nodeとyarnについて
-　　コマンド cdと少しlsについて
-　　configファイルとは
-　　パーミッションと変更の仕方について
-　　socketとmysql.sockについて
+gemの入れ方　例;gem install rails-バージョン
+バージョンを調べるコマンド　例;ruby --v
+自力でサンプルアプリ対応verをinstallしたがクローンしたディレクトリでbundlerすればできた、bundler理解せず進めてしまった……
+nodeとyarnについて
+コマンド cdと少しlsについて
+configファイルとは
+パーミッションと変更の仕方について
+socketとmysql.sockについて
+![APstop](https://github.com/fumiya80/sample-app/assets/145174824/314ccdce-b87c-495c-8580-67fce0caf574)
+![DBstop](https://github.com/fumiya80/sample-app/assets/145174824/447f0b7f-15e9-48fb-afdf-cfef6baf4fec)
