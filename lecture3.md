@@ -20,9 +20,9 @@
 ## 今回の課題で学んだこと
 gemの入れ方　例;gem install rails-バージョン
 バージョンを調べるコマンド　例;ruby --v
-自力でサンプルアプリ対応verをinstallしたがクローンしたディレクトリでbundlerすればできた、bundler理解せず進めてしまった……
+  自力でサンプルアプリ対応verをinstallしたがクローンしたディレクトリでbundlerすればできた、bundler理解せず進めてしまった……
 nodeとyarnについて
-コマンド cdと少しlsについて
+コマンド cdと少しlsについて  
 configファイルとは
 パーミッションと変更の仕方について
 socketとmysql.sockについて
