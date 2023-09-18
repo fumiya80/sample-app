@@ -26,5 +26,4 @@ nodeとyarnについて
 configファイルとは
 パーミッションと変更の仕方について
 socketとmysql.sockについて
-![APstop](https://github.com/fumiya80/sample-app/assets/145174824/314ccdce-b87c-495c-8580-67fce0caf574)
-![DBstop](https://github.com/fumiya80/sample-app/assets/145174824/447f0b7f-15e9-48fb-afdf-cfef6baf4fec)
+
