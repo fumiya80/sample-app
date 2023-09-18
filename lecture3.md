@@ -3,10 +3,10 @@
 ![アプリ起動1](https://github.com/fumiya80/sample-app/assets/145174824/e8e49ebd-ba6a-4e47-8643-d98701c40e02)
 ## AP/DBサーバについて
 ### 1.名前とバージョン
-　　APサーバ
+APサーバ
 　　名前:puma　バージョン:5.6.7
 ![image](https://github.com/fumiya80/sample-app/assets/145174824/71760f9b-b577-4458-8861-2035e82bab88)
-　　DBサーバ
+DBサーバ
 　　名前:mysql　バージョン:5.6.7
 ![image](https://github.com/fumiya80/sample-app/assets/145174824/caa3f503-9820-4a53-9f71-9f8a673a3906)
 ### 2.終了させた際のアクセス
