@@ -1,1 +1,1 @@
-# sanple-app
+# sample-app
