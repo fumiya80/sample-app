@@ -1,21 +1,21 @@
 # 課題提出
 ## アプリの起動確認
-![アプリ起動1]("C:\Users\fmy\Desktop\第3回課題提出\アプリ起動1.png")
+![image](https://github.com/fumiya80/sample-app/assets/145174824/f2d2928c-b29b-4868-a23e-406e2b1bc4d1)
+
 
 ## AP/DBサーバについて
 ### 1.名前とバージョン
 　　　APサーバ
 　　　　名前:puma　バージョン:5.6.7
-        ![puma-v]("C:\Users\fmy\Desktop\第3回課題提出\puma-v.png")　　
+        ![image](https://github.com/fumiya80/sample-app/assets/145174824/71760f9b-b577-4458-8861-2035e82bab88)
 　　　DBサーバ
 　　　　名前:mysql　バージョン:5.6.7
-　　　　 ![mysql-v]("C:\Users\fmy\Desktop\第3回課題提出\mysql-v.png")　
+　　　　![image](https://github.com/fumiya80/sample-app/assets/145174824/caa3f503-9820-4a53-9f71-9f8a673a3906)
 ### 2.終了させた際のアクセス
 　　　APサーバ
-　　　　![APstop]("C:\Users\fmy\Desktop\第3回課題提出\APstop.png")　
+　　　　![image](https://github.com/fumiya80/sample-app/assets/145174824/acb7ee0c-cd35-489f-a6ef-e38baa91acbb)
 　　　DBサーバ
-　　　　![DBstop]("C:\Users\fmy\Desktop\第3回課題提出\DBstop.png")
-
+　　　　![image](https://github.com/fumiya80/sample-app/assets/145174824/b6c86b1b-2bf2-4657-8051-b58a5c17e000)
 ## Railsの構成管理ツール
       bundler
 
