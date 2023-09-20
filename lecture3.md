@@ -12,7 +12,7 @@
 /sample-app/3mysql-v.png
 ### 2.終了させた際のアクセス
 　　- APサーバ  
-/sample-app/4APstop.png  　
+/sample-app/4APstop.png  
 　　- DBサーバ  
 /sample-app/5DBstop.png  
 
