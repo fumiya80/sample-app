@@ -1,6 +1,6 @@
 # 課題提出
 ## アプリの起動確認
-/sample-app/1app.png
+[/sample-app/1app.png](https://github.com/fumiya80/sample-app/blob/af6a4499a10eb0809de761b6b1addf5422825c51/1app.png)
 
 ## AP/DBサーバについて
 ### 1.名前とバージョン
