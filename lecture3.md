@@ -2,6 +2,7 @@
 ## アプリの起動確認
 ![/sample-app/1app.png](https://github.com/fumiya80/sample-app/blob/lecutre3/1app.png)
 (https://github.com/kenta-utiyama/Raisetech/blob/lecture03-1/img/sample_ap.PNG)
+![app](https://github.com/fumiya80/sample-app/blob/lecutre3/1app.png)
 
 ## AP/DBサーバについて
 ### 1.名前とバージョン
