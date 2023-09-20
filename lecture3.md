@@ -4,7 +4,7 @@
 
 ## AP/DBサーバについて
 ### 1.名前とバージョン
-　　- 1APサーバ  
+　　- APサーバ  
 　　- 名前:puma　バージョン:5.6.7  
 /sample-app/2puma-v.png  
 　　- DBサーバ  
@@ -12,7 +12,7 @@
 /sample-app/3mysql-v.png
 ### 2.終了させた際のアクセス
 　　- APサーバ  
-/sample-app/4APstop.png  　　
+/sample-app/4APstop.png  　
 　　- DBサーバ  
 /sample-app/5DBstop.png  
 
