@@ -6,6 +6,8 @@
 
 https://github.com/fumiya80/sample-app/blob/lecture3/1app.png
 
+![サンプルアプリ](/1app.png)
+
 https://github.com/fumiya80/sample-app/pull/4/files#diff-3bc36c5809e24c046ac232c3d12ce967347943fce8191e6fd47f2bc32adf4b2f
 ## AP/DBサーバについて
 ### 1.名前とバージョン
